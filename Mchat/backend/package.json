@@ -1,0 +1,39 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Machio Chat App backend craft",
+  "homepage": "https://github.com/PromiseMachio/Mchat#readme",
+  "bugs": {
+    "url": "https://github.com/PromiseMachio/Mchat/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PromiseMachio/Mchat.git"
+  },
+  "license": "ISC",
+  "author": "Promise Machio",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon /src/index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cloudinary": "^2.8.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^9.0.0",
+    "nodemon": "^3.1.11",
+    "socket.io": "^4.8.1",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.28.5",
+    "babel-jest": "^30.2.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^30.2.0"
+  }
+}
