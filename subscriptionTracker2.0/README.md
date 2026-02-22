@@ -49,7 +49,14 @@ npm run dev
 
 ---
 
+---
+
 ### Screenshots
+```
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/5a0f134f-8a2f-4061-8bf3-e8ea520a755d" />
 
+```
+```
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/2788c711-8bf9-4aa4-a06b-ee3c6604dc31" />
 
+```
