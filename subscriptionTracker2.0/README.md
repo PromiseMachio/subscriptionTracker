@@ -67,5 +67,11 @@ This authorizes shows who to see the users through token generation and arcjet
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/e8e43ef0-3366-48f7-b0c6-6fba43333538" />
 
 When trying to access without authorization
-<img width="712" height="292" alt="image" src="https://github.com/user-attachments/assets/269cb557-022c-4ff8-ab40-2e4be5dc8e0e" />
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/11bd3c67-c9bb-4e03-9a49-f905676b7fd4" />
+
+So if after generating the token those who are authoritated can access 
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/cea3d5f0-11c6-44f7-8358-fabcd2a517e7" />
+#### Database
+<img width="1023" height="671" alt="image" src="https://github.com/user-attachments/assets/63ce6041-c4ea-4081-92ab-48548c5908eb" />
+
 
