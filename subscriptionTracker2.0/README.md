@@ -74,4 +74,14 @@ So if after generating the token those who are authoritated can access
 #### Database
 <img width="1023" height="671" alt="image" src="https://github.com/user-attachments/assets/63ce6041-c4ea-4081-92ab-48548c5908eb" />
 
+---
+
+# 🙌 Author
+
+**Promise Machio**
+
+GitHub: [https://github.com/PromiseMachio](https://github.com/PromiseMachio)
+
+
+
 
