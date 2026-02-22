@@ -52,11 +52,12 @@ npm run dev
 ---
 
 ### Screenshots
-```
+#### Athentication
+
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/5a0f134f-8a2f-4061-8bf3-e8ea520a755d" />
 
-```
-```
+This is to showcase the sign up 
+
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/2788c711-8bf9-4aa4-a06b-ee3c6604dc31" />
 
-```
+This is to showcase sign in
