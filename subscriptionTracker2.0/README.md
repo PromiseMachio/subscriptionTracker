@@ -74,6 +74,10 @@ So if after generating the token those who are authoritated can access
 #### Database
 <img width="1023" height="671" alt="image" src="https://github.com/user-attachments/assets/63ce6041-c4ea-4081-92ab-48548c5908eb" />
 
+#### Arcjet functionality 
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/5056af30-614c-450d-be20-9d1c90802a4b" />
+Bot detected.
+
 ---
 
 # 🙌 Author
@@ -81,6 +85,7 @@ So if after generating the token those who are authoritated can access
 **Promise Machio**
 
 GitHub: [https://github.com/PromiseMachio](https://github.com/PromiseMachio)
+
 
 
 
