@@ -78,6 +78,21 @@ So if after generating the token those who are authoritated can access
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/5056af30-614c-450d-be20-9d1c90802a4b" />
 Bot detected.
 
+### Subscription 
+The program will allow an input for the start date, then the validator function will calculate to find the renewal date for the subscription. Frequency are daily, monthly... 
+<img width="1024" height="768" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/f09056ad-7686-4023-8dd3-ce0ce452c04a" />
+So incase the date for the start date is in the present then the program throws an error
+
+<img width="1024" height="768" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/22eff1f3-9f9f-450a-b46d-f0b22d22855e" />
+The subscription throws a success message when all the required details pass.
+
+#### Database
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/e347d063-64ec-4445-9f4a-b2e77c0ae9a3" />
+Our users subscriptions have been succesfully added to the database.
+
+
+
+
 ---
 
 # 🙌 Author
@@ -85,6 +100,7 @@ Bot detected.
 **Promise Machio**
 
 GitHub: [https://github.com/PromiseMachio](https://github.com/PromiseMachio)
+
 
 
 
